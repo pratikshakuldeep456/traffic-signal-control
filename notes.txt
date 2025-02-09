@@ -1,0 +1,6 @@
+
+//enum - signals, such as red, yellow, and green
+
+// signal system -> traffic at an intersection with multiple roads.
+
+// signal has duration configs
